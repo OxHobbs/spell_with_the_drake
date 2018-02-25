@@ -1,0 +1,10 @@
+welcome: Wow, I am honored to speak with the Drake. Did you know that Drake means dragon?  Anyway, are you ready to do some spelling Drake-a-beast?
+round: Spell... {{ word }}
+win: Good work, Drake the Snake
+lose: hmmm... need to study that one a bit more
+correct: Good work Drake
+cancel: Okay, thanks for playing Drake.
+no_play: Okay, see ya later Drake the Snake.
+play_again: You have finished your spelling words, would you like to go again?
+thanks: Thanks for playing beast-mode, until next time.  Be good, stay safe, stay sic and take care of yourself.
+goodbye: Goodbye

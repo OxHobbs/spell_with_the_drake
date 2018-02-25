@@ -1,0 +1,12 @@
+YesIntent yes
+YesIntent sure
+YesIntent I guess so      
+
+SpellingIntent {spelling}
+
+AMAZON.CancelIntent cancel
+
+AMAZON.StopIntent stop
+
+SkipIntent skip
+SkipIntent I don't know

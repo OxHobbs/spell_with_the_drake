@@ -1,0 +1,31 @@
+{
+    "intents": [
+        {
+            "intent": "YesIntent"
+        },
+        {
+            "intent": "SpellingIntent",
+            "slots": [
+                {
+                    "name": "spelling",
+                    "type": "SPELLINGS"
+                }
+            ]
+        },
+        {
+            "intent": "SkipIntent"
+        },
+        {
+            "intent": "NoIntent"
+        },
+        {
+            "intent": "AMAZON.StartOverIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        }
+    ]
+}
